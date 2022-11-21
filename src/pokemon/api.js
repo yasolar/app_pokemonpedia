@@ -3,8 +3,6 @@ import { Alert } from 'react-native';
 
 
 export default getPokemonData = (idPokemon, setPoke, setNum) =>  {
-
-    setNum(idPokemon)
     const endpoint = `https://pokeapi.co/api/v2/pokemon/${idPokemon}/`;
 
     fetch(endpoint)
@@ -16,7 +14,7 @@ export default getPokemonData = (idPokemon, setPoke, setNum) =>  {
                 peso: json.weight,
                 tipos: json.types,
             };
-
+            setNum(idPokemon)
             setPoke(pokemon);
         })
     .catch(() => {

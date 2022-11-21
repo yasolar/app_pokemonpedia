@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+import React from 'react';
 import { PokemonProvider } from '../contexts/pokemons';
 import Pokemon from './pokemon/Pokemon'
 
