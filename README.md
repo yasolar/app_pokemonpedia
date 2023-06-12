@@ -7,6 +7,7 @@
 ## 🧠 Conhecimentos
 <p>
  <a>React Native</a> •
+ <a>Hooks</a> •
  <a>API</a> • 
  <a>Styled Component</a>
 </p>
