@@ -14,6 +14,4 @@
 
 ##
 ### 🛠️ Rodando a aplicação
-<div align="center">
  https://user-images.githubusercontent.com/46655932/202936078-0429c8f1-3fd5-4463-a3fc-ec61024dfcc1.mp4
-</div>
