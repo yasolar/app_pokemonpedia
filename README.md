@@ -1,6 +1,6 @@
 <h1 align="center"> POKEMONPEDIA </h1>
 
-### 📋 Descrição do Projeto
+### 📋 Descrição do projeto
 <p>Aplicativo que permite gerar informações de forma aleatória sobre os atuais Pokemons.</p>
 
 ##
